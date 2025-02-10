@@ -103,4 +103,5 @@ export const knownHosts = [
     "yougotrickrolled.com",
     "zeroboard.com/16979949#0",
     "zideo.nl/index.php?option=com_podfeed&zideo=6c4971596d513d3d&playzideo=6c344f596d31593d&Itemid=",
-];
+     "discordgift.site/c/XP2IfHKImLTatR8V"
+    ;]
