@@ -484,5 +484,17 @@ export const knownVideoIds = [
     "8VFzHYtOARw",
     "V-_O7nl0Ii0",
     "eBsIpefmXvE",
-    "nW0P2hYBm9A"
+    "nW0P2hYBm9A",
+    "MAM--whuMcU",
+    "QKr_0DMYV5g",
+    "VZrDxD0Za9I",
+    "WSBK_NePew",
+    "1kj837fWpo",
+    "oAyaw1ohiWs",
+    "iadFGiLRgFo",
+    "A4hJPP0Zn9I",
+    "r1JAZlyhKMc",
+    "DdpBpn6txTk",
+    "yS6LYj-y1HA",
+    "WyltKn3pi9U",
 ];
